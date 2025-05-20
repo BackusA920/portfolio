@@ -2,7 +2,7 @@
 <p>For this capstone, we were to create a portfolio for all of our projects. This website is meant to be everchanging and evolving. Enjoy!</p>
 <a href="https://backusa920.github.io/portfolio/">
 
-  <img src="" width="500">
+  <img src="https://raw.githubusercontent.com/BackusA920/portfolio/refs/heads/main/assets/2025-05-19%2020_54_43-April's%20Portfolio.png" width="500">
 </a>
 <br><br>
 <a href="https://backusa920.github.io/portfolio/">
