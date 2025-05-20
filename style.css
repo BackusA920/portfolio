@@ -827,10 +827,22 @@ footer a:active {
   }
 }
 
-a img {
+.project-image {
   background-color: transparent !important;
+  filter: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  outline: none !important;
+  mix-blend-mode: normal !important;
 }
 
-a {
+.project-image:hover {
+  background-color: transparent !important;
+  filter: none !important;
+  box-shadow: none !important;
+  transform: scale(1.05); /* keep zoom if needed */
+}
+
+a img {
   background-color: transparent !important;
 }
