@@ -307,7 +307,7 @@
     .contact-buttons {
         display: flex;
         flex-direction: column;
-        gap: 1rem; /* Adds spacing between buttons */
+        gap: 1rem; 
     }
 
     .contact-btn {
@@ -798,3 +798,31 @@
     max-width: 100%;
     height: auto;
   }
+
+  footer a {
+  background-color: rgba(103, 199, 124, 0.37);
+  color: white;
+  text-decoration: none;
+  padding: 0.4rem 0.8rem;
+  margin: 0 0.3rem;
+  border-radius: 15px;
+  font-weight: 500;
+  font-size: 0.9rem;
+  display: inline-block;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+footer a:hover {
+  background-color: rgba(81, 170, 99, 0.85);
+  transform: scale(1.05);
+}
+
+footer a:active {
+  transform: scale(1);
+}
+
+@media (max-width: 768px) {
+  .face {
+    font-size: 25px; 
+  }
+}
