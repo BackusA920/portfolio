@@ -826,3 +826,11 @@ footer a:active {
     font-size: 25px; 
   }
 }
+
+a img {
+  background-color: transparent !important;
+}
+
+a {
+  background-color: transparent !important;
+}
